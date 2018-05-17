@@ -28,7 +28,11 @@ This Github organisation provides a framework for those wishing to learn such sk
 
 ### The bigger picture
 
+![alt text](github_assets/bigger_picture.jpg "Bigger Picture")
+
 ##### _"Writing code is only a small part of software engineering"_
+
+
 
 Github provides a platform for new developers to understand the bigger picture of what happens to the code they write.
 
