@@ -34,7 +34,7 @@ Github provides a platform for new developers to understand the bigger picture o
 
 This is only a small list of 'other' processes involved:
 
-1. ##### Collaboration
+1. ### Collaboration
   * [Peer code reviewing](https://en.wikipedia.org/wiki/Code_review)
   * [Software architecture](https://en.wikipedia.org/wiki/Software_design) discussions involving Operations
   * [Software version control](https://en.wikipedia.org/wiki/Version_control) via [Git](https://git-scm.com/)
@@ -44,7 +44,7 @@ This is only a small list of 'other' processes involved:
   * [Bug/Feature tracking](https://en.wikipedia.org/wiki/Bug_tracking_system)
   * [Coding Standards](https://en.wikipedia.org/wiki/Coding_conventions)
 
-2. ##### Testing
+2. ### Testing
   * Testing methodologies and frameworks [(TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
   * [Automated Testing](https://en.wikipedia.org/wiki/Test_automation)
   * [Release Engineering](https://en.wikipedia.org/wiki/Release_engineering)
@@ -52,24 +52,24 @@ This is only a small list of 'other' processes involved:
   * [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery))
   * [Continuous Deployment](https://en.wikipedia.org/wiki/Continuous_delivery#Relationship_to_continuous_deployment)
 
-3. ##### Deployment
+3. ### Deployment
   * [Zero-downtime upgrades](https://en.wikipedia.org/wiki/High_availability)
   * [Automated rollouts](https://en.wikipedia.org/wiki/Rolling_release)
   * Automated rollbacks
   * Various deployment methods (blue/green; [canary release](https://en.wikipedia.org/wiki/Feature_toggle#Canary_release); [waterfall](https://en.wikipedia.org/wiki/Waterfall_model); [feature toggle](https://en.wikipedia.org/wiki/Feature_toggle))
 
-4. ##### Monitoring
+4. ### Monitoring
   * Debugging via logs
   * Performance monitoring of application code
   * Code refactoring based on performance feedback
 
-5. ##### Infrastructure
+5. ### Infrastructure
   * Software stacks - [LAMP; LEMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle); [MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle);
   * Server architecture - [caching](https://en.wikipedia.org/wiki/Cache_(computing)); [failover](https://en.wikipedia.org/wiki/Failover); capacity planning
   * [Systems Management](https://en.wikipedia.org/wiki/Systems_management)
   * Containers - [Docker](https://www.docker.com), [Kubernetes](https://www.kubernetes.io)
   * [Infrastructure-as-Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) - [Terraform](https://www.terraform.io), [AWS Cloud Formation](https://aws.amazon.com/cloudformation/)
 
-6. ##### Security
+6. ### Security
   * Automated security testing
   * Sources of information for Developers
